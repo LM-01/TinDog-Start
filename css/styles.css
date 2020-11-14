@@ -52,3 +52,29 @@ font-family: 'Ubuntu', sans-serif; */
 .download-button {
     margin: 5% 3% 5% 0;
 }
+
+/* Featurets */
+.featurets {
+    text-align: center;
+}
+
+.featurets h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.featurets a {
+    color: #ef8172;
+    font-size: 4rem;
+    margin: 0 0 20px 0;
+}
+
+.featurets a:hover {
+    color: #ff4c68;
+    text-decoration: none;
+}
+
+.featurets p {
+    color: #8f8f8f;
+    padding: 0 50px;
+}
