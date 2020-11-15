@@ -139,3 +139,37 @@ font-family: 'Ubuntu', sans-serif; */
 .pricing-column {
     padding: 3% 2%;
 }
+
+
+/* Call to Action */
+
+#cta {
+    font-family: "Montserrat";
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 4% 25%;
+}
+
+#cta h3 {
+    font-weight: bold;
+    color: white;
+    font-size: 3rem;
+    line-height: 3.5rem;
+}
+
+#footer {
+    background-color: white;
+    text-align: center;
+    padding: 3%
+}
+
+.footer-icons i {
+    margin: 0 5px 10px;
+}
+
+.copyright {
+    color: grey;
+    font-size: .9rem;
+    margin-top: 10px;
+
+}
