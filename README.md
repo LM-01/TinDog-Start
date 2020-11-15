@@ -1,3 +1,1 @@
-TinDog Starting Files
-
-Test
+![picture](images/complete-page.png)
